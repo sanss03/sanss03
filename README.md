@@ -208,45 +208,45 @@ status      : 🚀 Something big is coming soon...
 <br/>
 
 <!-- ██████████████████████████████████████████████████████████████ -->
-<!--            📊  CONTRIBUTION ACTIVITY — 3D UNIVERSE            -->
+<!--            📊  CONTRIBUTION ACTIVITY                          -->
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
 ## 📊 &nbsp;Contribution Activity
 
-<sub>⚡ Sanss — 3D Contribution Universe</sub>
+<sub>⚡ Sanss — Contribution Universe</sub>
 
 <br/>
 
-<!-- ░░ LAYER 1 — Activity Line Graph (tokyo-night neon) ░░ -->
+<!-- Activity Line Graph -->
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=sanss03&theme=tokyo-night&bg_color=0D1117&color=C084FC&line=22D3EE&point=F0ABFC&area=true&area_color=6D28D9&hide_border=true&custom_title=⬡%20Sanss%20—%20Contribution%20Timeline%20⬡&radius=10"
     width="97%"
-    alt="Sanss 3D contribution activity graph"
+    alt="Sanss contribution activity graph"
   />
 </p>
 
 <br/>
 
-<!-- ░░ LAYER 2 — 3D Isometric Cube-Style Wave Bars (multicolor neon) ░░ -->
+<!-- Streak Stats -->
 <p align="center">
   <img
-    src="https://ssr-contributions-svg.vercel.app/_/sanss03?chart=3DBar&gap=0.65&scale=2&flatten=0&animation=wave&animation_duration=6&animation_delay=0.05&bg=0D1117&color=38BDF8-A78BFA-F472B6&widget_size=large&border_radius=12&weeks=32&dark=true"
-    width="97%"
-    alt="Sanss 3D isometric cube contribution wave"
+    src="https://streak-stats.demolab.com?user=sanss03&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=38BDF8&sideLabels=C084FC&dates=94A3B8&border_radius=10&stroke=A78BFA20"
+    width="60%"
+    alt="Sanss GitHub streak stats"
   />
 </p>
 
 <br/>
 
-<!-- ░░ LAYER 3 — Productive Time / Stats Cards (neon purple theme) ░░ -->
+<!-- GitHub Trophies -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanss03&theme=tokyonight"
+    src="https://github-profile-trophy.vercel.app/?username=sanss03&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
     width="97%"
-    alt="Sanss profile summary card"
+    alt="Sanss GitHub trophies"
   />
 </p>
 
