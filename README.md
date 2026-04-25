@@ -208,32 +208,45 @@ status      : 🚀 Something big is coming soon...
 <br/>
 
 <!-- ██████████████████████████████████████████████████████████████ -->
-<!--               CONTRIBUTION ACTIVITY GRAPH                     -->
+<!--            📊  CONTRIBUTION ACTIVITY — 3D UNIVERSE            -->
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
 ## 📊 &nbsp;Contribution Activity
 
+<sub>⚡ Sanss — 3D Contribution Universe</sub>
+
 <br/>
 
-<!-- 3D Activity Graph -->
+<!-- ░░ LAYER 1 — Activity Line Graph (tokyo-night neon) ░░ -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sanss03&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=38BDF8&point=ffffff&area=true&area_color=7C3AED&hide_border=true&custom_title=✦%20Sanss%20—%20Activity%20Graph%20✦&radius=8"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sanss03&theme=tokyo-night&bg_color=0D1117&color=C084FC&line=22D3EE&point=F0ABFC&area=true&area_color=6D28D9&hide_border=true&custom_title=⬡%20Sanss%20—%20Contribution%20Timeline%20⬡&radius=10"
     width="97%"
-    alt="Sanss activity graph"
+    alt="Sanss 3D contribution activity graph"
   />
 </p>
 
 <br/>
 
-<!-- Wave Animated 3D Bar Contribution Chart -->
+<!-- ░░ LAYER 2 — 3D Isometric Cube-Style Wave Bars (multicolor neon) ░░ -->
 <p align="center">
   <img
-    src="https://ssr-contributions-svg.vercel.app/_/sanss03?chart=3DBar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=6&animation_delay=0&bg=0D1117&color=A78BFA&widget_size=middle&border_radius=10&weeks=26&dark=true"
+    src="https://ssr-contributions-svg.vercel.app/_/sanss03?chart=3DBar&gap=0.65&scale=2&flatten=0&animation=wave&animation_duration=6&animation_delay=0.05&bg=0D1117&color=38BDF8-A78BFA-F472B6&widget_size=large&border_radius=12&weeks=32&dark=true"
     width="97%"
-    alt="Sanss wave contribution animation"
+    alt="Sanss 3D isometric cube contribution wave"
+  />
+</p>
+
+<br/>
+
+<!-- ░░ LAYER 3 — Productive Time / Stats Cards (neon purple theme) ░░ -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanss03&theme=tokyonight"
+    width="97%"
+    alt="Sanss profile summary card"
   />
 </p>
 
