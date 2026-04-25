@@ -213,11 +213,29 @@ status      : 🚀 Something big is coming soon...
 
 <div align="center">
 
-## 📈 &nbsp;Contribution Activity
+## 📊 &nbsp;Contribution Activity
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanss03&bg_color=0D1117&color=A78BFA&line=38BDF8&point=F472B6&area=true&area_color=C084FC&hide_border=true&custom_title=Sanss%20%E2%80%94%20Contribution%20Graph" width="100%" />
+<!-- 3D Activity Graph -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sanss03&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=38BDF8&point=ffffff&area=true&area_color=7C3AED&hide_border=true&custom_title=✦%20Sanss%20—%20Activity%20Graph%20✦&radius=8"
+    width="97%"
+    alt="Sanss activity graph"
+  />
+</p>
+
+<br/>
+
+<!-- Wave Animated 3D Bar Contribution Chart -->
+<p align="center">
+  <img
+    src="https://ssr-contributions-svg.vercel.app/_/sanss03?chart=3DBar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=6&animation_delay=0&bg=0D1117&color=A78BFA&widget_size=middle&border_radius=10&weeks=26&dark=true"
+    width="97%"
+    alt="Sanss wave contribution animation"
+  />
+</p>
 
 </div>
 
