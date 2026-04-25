@@ -208,44 +208,16 @@ status      : 🚀 Something big is coming soon...
 <br/>
 
 <!-- ██████████████████████████████████████████████████████████████ -->
-<!--                    GITHUB STATS                               -->
+<!--               CONTRIBUTION ACTIVITY GRAPH                     -->
 <!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-## 📊 &nbsp;GitHub Analytics
+## 📈 &nbsp;Contribution Activity
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanss03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&langs_count=8" height="165" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=sanss03&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F472B6&currStreakLabel=38BDF8&sideLabels=E2E8F0&dates=94A3B8" height="165" />
-
-</div>
-
-<br/>
-
-<!-- ██████████████████████████████████████████████████████████████ -->
-<!--                 CONTRIBUTION SNAKE                            -->
-<!-- ██████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## 🐍 &nbsp;Contribution Graph Animation
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sanss03/sanss03/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sanss03/sanss03/output/github-contribution-grid-snake.svg" />
-  <img
-    alt="🐍 Sanss contribution snake animation"
-    src="https://raw.githubusercontent.com/sanss03/sanss03/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
-  />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanss03&bg_color=0D1117&color=A78BFA&line=38BDF8&point=F472B6&area=true&area_color=C084FC&hide_border=true&custom_title=Sanss%20%E2%80%94%20Contribution%20Graph" width="100%" />
 
 </div>
 
