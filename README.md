@@ -241,12 +241,12 @@ status      : 🚀 Something big is coming soon...
 
 <br/>
 
-<!-- GitHub Trophies -->
+<!-- Top Languages Card -->
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=sanss03&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
-    width="97%"
-    alt="Sanss GitHub trophies"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanss03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E2E8F0&langs_count=8&border_radius=10"
+    width="50%"
+    alt="Sanss top languages"
   />
 </p>
 
