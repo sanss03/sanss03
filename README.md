@@ -136,6 +136,88 @@ status      : 🚀 Something big is coming soon...
 
 </div>
 
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                  ⭐ NIVAA — SIGNATURE PROJECT                  -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-%E2%AD%90%20SIGNATURE%20PROJECT%20%E2%AD%90-A78BFA?style=for-the-badge&labelColor=0D1117&color=A78BFA&logoColor=white" />
+
+</div>
+
+<br/>
+
+<table align="center" border="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td align="center" style="padding: 0;">
+
+<div align="center">
+
+### ✦ &nbsp;`NIVAA` &nbsp;✦
+#### *Full-Stack Accommodation Booking Platform*
+
+</div>
+
+> 🏡 Discover, list, and manage unique stays — with smart search, interactive maps, cloud image uploads, and a seamless booking experience for every traveler.
+
+<br/>
+
+| Feature | Description |
+|---|---|
+| 🔐 **Secure Auth** | JWT-based authentication with session management |
+| 🗺️ **Interactive Maps** | Explore stays visually with live map integration |
+| ☁️ **Cloud Uploads** | Instant image hosting via Cloudinary |
+| 🔍 **Smart Search & Filters** | Find stays by location, price, category & more |
+| ⭐ **Reviews & Ratings** | Verified guest reviews for every listing |
+| 📱 **Responsive UX** | Fluid experience across all devices |
+
+<br/>
+
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=flat-square&logo=cloudinary&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Live%20%F0%9F%9F%A2-22C55E?style=flat-square&logo=vercel&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Cloudinary-38BDF8?style=flat-square&logo=mongodb&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Type-Full%20Stack-C084FC?style=flat-square&logo=stackshare&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://github.com/sanss03/NIVAA">
+  <img src="https://img.shields.io/badge/View%20Repository-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="https://nivaa.onrender.com">
+  <img src="https://img.shields.io/badge/Live%20Demo-F472B6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
+
+<br/>
+
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                      OTHER PROJECTS                           -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
 <table align="center" border="0" width="100%">
 <tr>
 
