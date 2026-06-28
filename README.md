@@ -134,7 +134,7 @@ status      : 🚀 Something big is coming soon...
 
 ## 🚀 &nbsp;Flagship Projects
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=✦+Three+Projects.+One+Vision.+Endless+Possibilities+✦;Full+Stack+%7C+AI+Powered+%7C+Civic+Tech+%7C+Real+Impact" alt="Projects typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=%E2%9C%A6+Three+Projects.+One+Vision.+Endless+Possibilities+%E2%9C%A6;Full+Stack+%7C+AI+Powered+%7C+Civic+Tech+%7C+Real+Impact" alt="Projects typing animation" />
 
 </div>
 
@@ -148,10 +148,10 @@ status      : 🚀 Something big is coming soon...
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-%E2%AD%90%20SIGNATURE-%20-A78BFA?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SIGNATURE%20PROJECT-Full%20Stack-A78BFA?style=flat-square&labelColor=0D1117&color=A78BFA" />
 
 ### ✦ &nbsp;`NIVAA` &nbsp;✦
-#### *Accommodation Booking Platform*
+#### *Full-Stack Accommodation Booking Application*
 
 </div>
 
@@ -175,7 +175,7 @@ status      : 🚀 Something big is coming soon...
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Live%20🟢-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square&logo=checkmarx&logoColor=white" />
 <img src="https://img.shields.io/badge/Stack-MERN-38BDF8?style=flat-square" />
 
 <br/><br/>
@@ -192,7 +192,7 @@ status      : 🚀 Something big is coming soon...
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-🤖%20AI%20FINTECH-%20-38BDF8?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AI%20FINTECH-MERN%20%2B%20AI-38BDF8?style=flat-square&labelColor=0D1117&color=38BDF8" />
 
 ### ✦ &nbsp;`AGREEVA` &nbsp;✦
 #### *AI Financial Agreement Platform*
@@ -231,7 +231,7 @@ status      : 🚀 Something big is coming soon...
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-🏛️%20CIVIC%20TECH-%20-F472B6?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CIVIC%20TECH-Smart%20Municipal-F472B6?style=flat-square&labelColor=0D1117&color=F472B6" />
 
 ### ✦ &nbsp;`SEVANKUR` &nbsp;✦
 #### *Smart Municipal Chatbot System*
