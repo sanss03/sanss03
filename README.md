@@ -134,126 +134,104 @@ status      : 🚀 Something big is coming soon...
 
 ## 🚀 &nbsp;Flagship Projects
 
-</div>
-
-<!-- ██████████████████████████████████████████████████████████████ -->
-<!--                  ⭐ NIVAA — SIGNATURE PROJECT                  -->
-<!-- ██████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/-%E2%AD%90%20SIGNATURE%20PROJECT%20%E2%AD%90-A78BFA?style=for-the-badge&labelColor=0D1117&color=A78BFA&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=✦+Three+Projects.+One+Vision.+Endless+Possibilities+✦;Full+Stack+%7C+AI+Powered+%7C+Civic+Tech+%7C+Real+Impact" alt="Projects typing animation" />
 
 </div>
 
 <br/>
-
-<table align="center" border="0" width="100%" style="border-collapse:collapse;">
-<tr>
-<td align="center" style="padding: 0;">
-
-<div align="center">
-
-### ✦ &nbsp;`NIVAA` &nbsp;✦
-#### *Full-Stack Accommodation Booking Platform*
-
-</div>
-
-> 🏡 Discover, list, and manage unique stays — with smart search, interactive maps, cloud image uploads, and a seamless booking experience for every traveler.
-
-<br/>
-
-| Feature | Description |
-|---|---|
-| 🔐 **Secure Auth** | JWT-based authentication with session management |
-| 🗺️ **Interactive Maps** | Explore stays visually with live map integration |
-| ☁️ **Cloud Uploads** | Instant image hosting via Cloudinary |
-| 🔍 **Smart Search & Filters** | Find stays by location, price, category & more |
-| ⭐ **Reviews & Ratings** | Verified guest reviews for every listing |
-| 📱 **Responsive UX** | Fluid experience across all devices |
-
-<br/>
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=flat-square&logo=cloudinary&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-
-<br/>
-
-<img src="https://img.shields.io/badge/Status-Live%20%F0%9F%9F%A2-22C55E?style=flat-square&logo=vercel&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Cloudinary-38BDF8?style=flat-square&logo=mongodb&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Type-Full%20Stack-C084FC?style=flat-square&logo=stackshare&logoColor=white" />
-
-<br/><br/>
-
-<a href="https://github.com/sanss03/NIVAA">
-  <img src="https://img.shields.io/badge/View%20Repository-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://nivaa.onrender.com">
-  <img src="https://img.shields.io/badge/Live%20Demo-F472B6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
-
-<br/>
-
-<!-- ██████████████████████████████████████████████████████████████ -->
-<!--                      OTHER PROJECTS                           -->
-<!-- ██████████████████████████████████████████████████████████████ -->
 
 <table align="center" border="0" width="100%">
 <tr>
 
-<!-- PROJECT 1 -->
-<td width="50%" valign="top">
+<!-- ═══════════════ PROJECT 1 — NIVAA ═══════════════ -->
+<td width="33%" valign="top" align="center">
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/-%E2%AD%90%20SIGNATURE-%20-A78BFA?style=flat-square&labelColor=0D1117" />
+
+### ✦ &nbsp;`NIVAA` &nbsp;✦
+#### *Accommodation Booking Platform*
+
+</div>
+
+> 🏡 Discover, list & manage unique stays with smart search, maps, cloud uploads & reviews.
+
+| Feature | Detail |
+|---|---|
+| 🔐 **Auth** | Secure JWT sessions |
+| 🗺️ **Maps** | Interactive live map |
+| ☁️ **Cloud** | Cloudinary image uploads |
+| 🔍 **Search** | Filters by location & price |
+| ⭐ **Reviews** | Verified guest ratings |
+| 📱 **Responsive** | All-device ready UX |
+
+<div align="center">
+
+![Node](https://img.shields.io/badge/Node-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000.svg?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=flat-square&logo=cloudinary&logoColor=white)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Live%20🟢-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-MERN-38BDF8?style=flat-square" />
+
+<br/><br/>
+
+<a href="https://github.com/sanss03/NIVAA"><img src="https://img.shields.io/badge/Repo-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://nivaa.onrender.com"><img src="https://img.shields.io/badge/Demo-F472B6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div>
+
+</td>
+
+<!-- ═══════════════ PROJECT 2 — AGREEVA ═══════════════ -->
+<td width="33%" valign="top" align="center">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-🤖%20AI%20FINTECH-%20-38BDF8?style=flat-square&labelColor=0D1117" />
+
 ### ✦ &nbsp;`AGREEVA` &nbsp;✦
-#### *AI-Powered Financial Agreement Platform*
+#### *AI Financial Agreement Platform*
 
 </div>
 
 > 🧾 Simplifying financial & legal agreements with AI — so you always know what you're signing.
 
-| Feature | Description |
+| Feature | Detail |
 |---|---|
-| 📤 **Document Upload** | Upload or camera-scan agreements instantly |
-| 🤖 **AI Simplification** | Legal text made human-readable |
-| 📊 **Visual Breakdown** | Financial data visualized beautifully |
-| ⚠️ **Risk Indicator** | Smart risk scoring for every clause |
-| 💬 **AI Chatbot** | Ask anything about your document |
-| 🌍 **Multi-lang + Voice** | Understands & speaks your language |
-| ✅ **Verified Consent** | Secure, traceable consent system |
+| 📤 **Upload** | Camera-scan agreements |
+| 🤖 **AI** | Legal text simplified |
+| 📊 **Visual** | Data visualized beautifully |
+| ⚠️ **Risk** | Smart clause risk scoring |
+| 💬 **Chatbot** | Ask about your document |
+| 🌍 **Multi-lang** | Voice & language support |
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Dev-A78BFA?style=flat-square&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20AI-38BDF8?style=flat-square&logo=openai&logoColor=white" />
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-74AA9C?style=flat-square&logo=openai&logoColor=white)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Active%20Dev-A78BFA?style=flat-square&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Stack-MERN%20%2B%20AI-38BDF8?style=flat-square" />
+
 </div>
 
 </td>
 
-<!-- PROJECT 2 -->
-<td width="50%" valign="top">
+<!-- ═══════════════ PROJECT 3 — SEVANKUR ═══════════════ -->
+<td width="33%" valign="top" align="center">
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/-🏛️%20CIVIC%20TECH-%20-F472B6?style=flat-square&labelColor=0D1117" />
 
 ### ✦ &nbsp;`SEVANKUR` &nbsp;✦
 #### *Smart Municipal Chatbot System*
@@ -262,18 +240,27 @@ status      : 🚀 Something big is coming soon...
 
 > 🏛️ Bringing civic services to citizens' fingertips — tax, dues, notices, all in one smart platform.
 
-| Feature | Description |
+| Feature | Detail |
 |---|---|
-| 💰 **Tax Details** | Instant property tax lookups |
-| 📅 **Due Tracking** | Never miss a payment deadline |
-| 🧑‍💼 **Officer Dashboard** | Powerful admin control panel |
-| 📬 **Auto Notices** | Automated citizen notifications |
-
-<br/><br/><br/>
+| 💰 **Tax** | Instant property tax lookups |
+| 📅 **Dues** | Never miss a deadline |
+| 🧑‍💼 **Dashboard** | Powerful admin control panel |
+| 📬 **Notices** | Automated citizen alerts |
+| 🤖 **Chatbot** | AI-powered query resolution |
+| 🔐 **Auth** | Role-based access system |
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-F472B6?style=flat-square&logo=city&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20AI-38BDF8?style=flat-square&logo=openai&logoColor=white" />
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-74AA9C?style=flat-square&logo=openai&logoColor=white)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-F472B6?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-MERN%20%2B%20AI-38BDF8?style=flat-square" />
+
 </div>
 
 </td>
